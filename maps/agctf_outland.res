@@ -9,4 +9,3 @@ gfx/env/mercury_rt.tga
 gfx/env/mercury_ft.tga
 gfx/env/mercury_bk.tga
 locs/agctf_outland.loc
-locs\agctf_outland.loc

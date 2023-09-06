@@ -7,4 +7,3 @@ gfx/env/fullmoonup.tga
 maps/dabo.res
 maps/dabo.txt
 locs/dabo.loc
-locs\dabo.loc
